@@ -1,0 +1,13 @@
+
+{
+  "geode": "$GEODE_VERSION",
+  "gd": {
+    "win": "2.2081",
+    "android": "2.2081"
+  },
+  "id": "manzinax.death-recovery",
+  "name": "Death Recovery",
+  "version": "v1.0.0",
+  "developer": "manzinax",
+  "description": "Recover your Geometry Dash runs with Rewind and Checkpoint systems."
+}
